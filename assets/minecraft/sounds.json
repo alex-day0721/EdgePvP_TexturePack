@@ -1,0 +1,4 @@
+{
+    "edge.teleport_start":{"sounds":[{"name":"mob/endermen/portal2","stream":true}],"category":"master"},
+    "edge.teleport_end":{"sounds":[{"name":"mob/endermen/portal","stream":true}],"category":"master"}
+}
