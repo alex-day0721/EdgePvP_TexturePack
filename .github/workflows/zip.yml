@@ -12,7 +12,7 @@ jobs:
         git config --global user.email "a.alex.day@gmail.com"
         git config pull.rebase false
         git pull
-        rm -f release.zip
+        rm -f EdgePvP_TexturePack_1_17_1.zip
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
