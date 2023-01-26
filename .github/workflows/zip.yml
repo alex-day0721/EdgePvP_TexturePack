@@ -16,7 +16,7 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'EdgePvP_TexturePack_1_17_1.zip'
+        filename: 'Retrofit_Texture_Pack_1_19_2.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: push changes to remote
       run: |
